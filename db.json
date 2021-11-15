@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "car_brand": "BMW",
+      "car_model": "RT177",
+      "car_price": "4000$",
+      "car_color": "Brown",
+      "id": 1
+    },
+    {
+      "car_brand": "Dacia",
+      "car_model": "A6",
+      "car_price": "5500$",
+      "car_color": "Blue",
+      "id": 2
+    },
+    {
+      "car_brand": "Audi",
+      "car_model": "A5",
+      "car_price": "4000$",
+      "car_color": "Yellow",
+      "id": 3
+    },
+    {
+      "car_brand": "Lexus",
+      "car_model": "XV3",
+      "car_price": "45000$",
+      "car_color": "Metallic Red",
+      "id": 4
+    },
+    {
+      "car_brand": "Mercedes-Benz",
+      "car_model": "XV2",
+      "car_price": "10000$",
+      "car_color": "Purple",
+      "id": 5
+    },
+    {
+      "car_brand": "Peugeot",
+      "car_model": "TR",
+      "car_price": "4500$",
+      "car_color": "Metallic Red",
+      "id": 6
+    },
+    {
+      "car_brand": "RAM",
+      "car_model": "F41 4x4",
+      "car_price": "21500$",
+      "car_color": "Orange",
+      "id": 7
+    }
+  ]
+}
